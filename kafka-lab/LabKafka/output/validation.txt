@@ -1,0 +1,9 @@
+Kafka lab execution: 2026-10-09
+Topic: gutenberg-book-lines
+Run ID: 67662649-f67b-484a-ac3d-4c9f14a3ff95
+Sent and received source lines: 8312
+Cleaned output lines: 6401
+Tokens: 37795
+Unique words: 6968
+verify_output.py: PASS; output matches the entire cleaned source book.
+check_cleaning.py: PASS.

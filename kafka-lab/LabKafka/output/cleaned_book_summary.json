@@ -1,0 +1,9 @@
+{
+  "topic": "gutenberg-book-lines",
+  "run_id": "67662649-f67b-484a-ac3d-4c9f14a3ff95",
+  "received_lines": 8312,
+  "cleaned_lines": 6401,
+  "tokens": 37795,
+  "unique_words": 6968,
+  "output": "C:\\Users\\Utilisateur\\OneDrive\\Desktop\\ING5\\Big Data & Appli\\LabKafka\\output\\cleaned_book.txt"
+}
