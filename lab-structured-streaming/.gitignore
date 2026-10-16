@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+notebooks/spark-warehouse/
+notebooks/metastore_db/
+notebooks/derby.log
+*.lwp
+apicache*/
+logs/
+throttle.ctrl

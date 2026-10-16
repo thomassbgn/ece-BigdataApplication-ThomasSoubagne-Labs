@@ -1,0 +1,3 @@
+confluent-kafka==2.16.0
+pywikibot==11.8.0
+requests-sse==0.5.3
